@@ -1,0 +1,66 @@
+@charset "utf-8";
+html, body {
+    margin: 10px;
+    padding: 0;
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000000;
+    font-family: "ADLaM Display", system-ui;
+}
+
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.aboutme p{
+    font-weight: 500;
+    font-style: normal;
+    margin: 20px;
+    max-width: 60%;
+
+}
+
+.porto .box1 {
+
+ background-color: rgb(255, 255, 255);
+ width: 30%;
+
+}
+.Portfolio {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1300px;
+    flex-wrap: wrap;
+    z-index: 2;
+    font-family: poppins;
+    cursor: pointer;
+    margin-left: 5%;
+    
+}
+
+.Portfolio .box{
+    position: relative;
+    width: 280px;
+    height: 400px;
+    margin: 33px;
+    border-radius: 15px;
+    background: rgb(87, 87, 87);
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+}
+
+  
+ 
+ 
+
+
+
+
